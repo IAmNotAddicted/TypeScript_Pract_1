@@ -20,13 +20,3 @@ Data Types
 String: Used for task text and IDs.
 Number: Used for unique task IDs.
 Boolean: Used for task completion status.
-
-⣿⣧⡈⠙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⢹⠿⣿⣿⣿
-⣿⣿⣿⣷⣶⡀⠿⠿⣿⣿⣿⣿⣿⣿⡇⠐⠂⢒⡢⠀⣿
-⣿⣿⣿⣿⣿⣿⣆⠀⠈⢻⣿⣿⣿⣿⣿⡆⢈⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠙⠻⢻⢿⣿⠷⢠⢽⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠁⠀⢘⣱⣍⠿⣾⢿⣿⢿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⢉⢷⣌⠳⣿⣽⠿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠋⠽⠶⡌⠿⠿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣠⡀⠀⠐⠇⢿⠿⠿
-⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠏⠁⠀⠈⠀⠅⠶⠲⠿⠿⠿
